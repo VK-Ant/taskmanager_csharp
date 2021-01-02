@@ -1,0 +1,7 @@
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\obj\Debug\ConsoleAppvk.csprojAssemblyReference.cache
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\obj\Debug\ConsoleAppvk.csproj.CoreCompileInputs.cache
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\bin\Debug\ConsoleAppvk.exe.config
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\bin\Debug\ConsoleAppvk.exe
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\bin\Debug\ConsoleAppvk.pdb
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\obj\Debug\ConsoleAppvk.exe
+C:\Users\VK\source\repos\ConsoleAppvk\ConsoleAppvk\obj\Debug\ConsoleAppvk.pdb

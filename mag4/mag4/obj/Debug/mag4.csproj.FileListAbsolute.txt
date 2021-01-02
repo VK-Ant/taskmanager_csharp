@@ -1,0 +1,10 @@
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.csprojAssemblyReference.cache
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.Properties.Resources.resources
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.csproj.GenerateResource.cache
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.csproj.CoreCompileInputs.cache
+C:\Users\VK\source\repos\mag4\mag4\bin\Debug\mag4.exe.config
+C:\Users\VK\source\repos\mag4\mag4\bin\Debug\mag4.exe
+C:\Users\VK\source\repos\mag4\mag4\bin\Debug\mag4.pdb
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.Form1.resources
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.exe
+C:\Users\VK\source\repos\mag4\mag4\obj\Debug\mag4.pdb

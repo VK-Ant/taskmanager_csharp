@@ -1,0 +1,10 @@
+C:\Users\VK\source\repos\manager3\manager3\bin\Debug\manager3.exe.config
+C:\Users\VK\source\repos\manager3\manager3\bin\Debug\manager3.exe
+C:\Users\VK\source\repos\manager3\manager3\bin\Debug\manager3.pdb
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.csprojAssemblyReference.cache
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.Form1.resources
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.Properties.Resources.resources
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.csproj.GenerateResource.cache
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.csproj.CoreCompileInputs.cache
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.exe
+C:\Users\VK\source\repos\manager3\manager3\obj\Debug\manager3.pdb
